@@ -1,16 +1,19 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
 
-<!--
-**kadhu74/kadhu74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello! I'm Kadhu
 
-Here are some ideas to get you started:
+I'm 27 years old and from Brazil 🇧🇷  
+🎓 Data Science student at **EBAC**  
+🐍 Currently learning Python and logic programming  
+🚀 Building my journey step by step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+I'll be posting my projects here soon — feel free to explore and give feedback!
+
+## 📫 Let's connect!
+Feel free to reach out or follow me for updates.
+
+## 🛠️ Technologies I'm learning:
+- Python
+- Git & GitHub
+- Data Science foundations
